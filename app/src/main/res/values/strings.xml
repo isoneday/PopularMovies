@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="top_rated">"Top Rated"</string>
+    <string name="most_popular">"Most Popular"</string>
+    <string name="title_activity_detail">"Detail Movies"</string>
+    <string name="settings">"Settings"</string>
+    <string name="sort_key" translatable="false">sort order</string>
+    <string name="sort_label">Sort Order</string>
+    <string name="sort_label_pop">Most Popular</string>
+    <string name="order_pop" translatable="false">0</string>
+    <string name="sort_label_top">Highest Rated</string>
+    <string name="order_top" translatable="false">1</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string-array name="order_options">
+        <item>@string/sort_label_pop</item>
+        <item>@string/sort_label_top</item>
+    </string-array>
+    <string-array name="order_values">
+        <item>@string/order_pop</item>
+        <item>@string/order_top</item>
+    </string-array>
+    <string name="enter_contact_details">Enter Contact Details</string>
+    <string name="enterName">Name</string>
+    <string name="enterPhoneNumber">Phone Number :</string>
+    <string name="delete_all_contacts">Delete All Contacts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="favoritemovie">Favorite movies</string>
+    <string name="dummy">Dummy Text</string>
+    <string name="rating">rating</string>
+    <string name="ratingmovie">rating movie</string>
+    <string name="sysnopsis">synopsis</string>
+    <string name="testing">sdasd</string>
+    <string name="trailer">Trailers :</string>
+    <string name="review">Reviews  :</string>
+    <string name="namamovie">nama movie</string>
+    <string name="nametrailer">trailer title</string>
+    <string name="delete">All Contacts Deleted</string>
+
+</resources>
